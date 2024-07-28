@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Kushwanth Portfolio Website.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Kushwanth Portfolio Website.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\Kushwanth Medasani-22-06-2024.pdf",
+      "PackagePath": "staticwebassets\\Kushwanth Medasani-22-06-2024.pdf"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\fonts\\Raleway-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Raleway-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\Animation - 1720202074068 (1).gif",
+      "PackagePath": "staticwebassets\\images\\Animation - 1720202074068 (1).gif"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\Animation - 1720202074068.gif",
+      "PackagePath": "staticwebassets\\images\\Animation - 1720202074068.gif"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\contact.png",
+      "PackagePath": "staticwebassets\\images\\contact.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\education.png",
+      "PackagePath": "staticwebassets\\images\\education.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\icons8-github-50 (1).png",
+      "PackagePath": "staticwebassets\\images\\icons8-github-50 (1).png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\icons8-gmail-64.png",
+      "PackagePath": "staticwebassets\\images\\icons8-gmail-64.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\icons8-google-scholar-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-google-scholar-50.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\icons8-level-up-your-coding-skills-and-quickly-land-a-job-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-level-up-your-coding-skills-and-quickly-land-a-job-50.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\icons8-linkedin-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-linkedin-50.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\icons8-resume-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-resume-50.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\journey.png",
+      "PackagePath": "staticwebassets\\images\\journey.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\scroll-down.gif",
+      "PackagePath": "staticwebassets\\images\\scroll-down.gif"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\images\\send.png",
+      "PackagePath": "staticwebassets\\images\\send.png"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\PortfolioWebsite\\Kushwanth\\Kushwanth Portfolio Website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Kushwanth Portfolio Website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Kushwanth Portfolio Website.props",
+      "PackagePath": "build\\Kushwanth Portfolio Website.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Kushwanth Portfolio Website.props",
+      "PackagePath": "buildMultiTargeting\\Kushwanth Portfolio Website.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Kushwanth Portfolio Website.props",
+      "PackagePath": "buildTransitive\\Kushwanth Portfolio Website.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

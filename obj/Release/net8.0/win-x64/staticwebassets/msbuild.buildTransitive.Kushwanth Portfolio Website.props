@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Kushwanth Portfolio Website.props" />
+</Project>
